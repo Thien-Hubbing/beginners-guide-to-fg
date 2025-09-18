@@ -15,5 +15,6 @@ This paper spawned off a major branch of numbers, called Hypergoogology, numbers
 
 ## What's next?
 Let's explore some of the concepts used within the informal & rigorous space of Fictional Googology.
-- [Rigorous Concepts](./rigors/concepts.md)
-- [Informal Concepts](./informals/concepts.md)
+
+- [Rigorous Concepts](./rigors/concepts/index.md)
+- [Informal Concepts](./informals/concepts/index.md)
