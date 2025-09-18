@@ -20,6 +20,10 @@ Some of the [A.E. Version](./ae-versions/index.md) that are used are:
 ## Supercycles
 **Supercycles** are a kind of cycles that consists of copying the functions of previous cycles that has been shown and combining them into one large "supercycle". These also sometimes has extra parts added at the end that aren't a part of any cycles shown before.
 
+> [!NOTE]
+> All supercycles _are_ by definition powered cycles but not all powered cycles _are_ supercycles.
+> The distinguishing feature is that supercycles contains previous cycles while most powered cycles _do not_.
+
 **Supercycles** have a few additional unique parts separating them from traditional cycles.
 - Firstly, the repeats segment (repeating the cycle entries over itself) is typically much longer then normal cycles.
   - Additionally, the repeats segment often uses a different song then the one used for the base entries (eg. [Slient Partner's Birds](https://www.youtube.com/watch?v=QYURLoKaoYI)).
