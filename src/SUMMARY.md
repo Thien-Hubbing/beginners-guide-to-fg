@@ -14,7 +14,6 @@
     - [Absolutely Everything Versions](./informals/concepts/ae-versions/README.md)
     - [Loops](./informals/concepts/loops.md)
       - [Sequences](./informals/concepts/sequences.md)
-      - [Number Chains](./informals/concepts/number-chains.md)
     - [Notations](./informals/concepts/notations/README.md)
 
 # Rigorous FG
