@@ -8,12 +8,13 @@
 - [Introduction](./informals/README.md)
   - [Informal Concepts](./informals/concepts/README.md)
     - [Classifications](./informals/concepts/classifications.md)
-    - [Notations](./informals/concepts/notations/README.md)
-    - [Number Chains](./informals/concepts/number-chains.md)
-    - [Loops](./informals/concepts/loops.md)
-    - [Sequences](./informals/concepts/sequences.md)
-    - [Breaking](./informals/concepts/breaking.md)
     - [Cycles](./informals/concepts/cycles.md)
+    - [Breaking](./informals/concepts/breaking.md)
+    - [Absolutely Everything Versions](./informals/concepts/ae-versions/README.md)
+    - [Loops](./informals/concepts/loops.md)
+      - [Sequences](./informals/concepts/sequences.md)
+      - [Number Chains](./informals/concepts/number-chains.md)
+    - [Notations](./informals/concepts/notations/README.md)
 
 # Rigorous FG
 - [Introduction](./rigors/README.md)
