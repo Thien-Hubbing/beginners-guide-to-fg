@@ -8,6 +8,7 @@
 - [Introduction](./informals/README.md)
   - [Informal Concepts](./informals/concepts/README.md)
     - [Classifications](./informals/concepts/classifications.md)
+    - [Scales](./informals/concepts/scales.md)
     - [Cycles](./informals/concepts/cycles.md)
     - [Breaking](./informals/concepts/breaking.md)
     - [Absolutely Everything Versions](./informals/concepts/ae-versions/README.md)

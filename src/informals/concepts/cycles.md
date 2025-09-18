@@ -24,3 +24,5 @@ Some of the [A.E. Version](./ae-versions/index.md) that are used are:
 - Firstly, the repeats segment (repeating the cycle entries over itself) is typically much longer then normal cycles.
   - Additionally, the repeats segment often uses a different song then the one used for the base entries (eg. [Slient Partner's Birds](https://www.youtube.com/watch?v=QYURLoKaoYI)).
 - Secondly, they often has [Absolutely Everything Versions](./ae-versions/index.md) attached, which makes it problematic for photosensitive people due to the flashy nature of these segments.
+
+There are higher levels of supercycles such as **Megacycles**, which follows SI unit measurements up till a certain point. After that point, it follows Breakology.
