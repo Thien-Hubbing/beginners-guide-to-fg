@@ -6,6 +6,8 @@
 
 # Informal FG
 - [Introduction](./informals/README.md)
+	- [General Rules](./informals/general-rules.md)
+	- [Quantum Googology](./informals/quantum-googology.md)
   - [Informal Concepts](./informals/concepts/README.md)
     - [Classifications](./informals/concepts/classifications.md)
     - [Scales](./informals/concepts/scales.md)
