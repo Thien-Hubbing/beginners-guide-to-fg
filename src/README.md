@@ -1,4 +1,5 @@
 # Introduction
+
 If you've found this document, you might be wondering what fictional googology is all about, or maybe there are some concepts that you're confused about. Perhaps you just need to refresh your memory. Whatever it is, you've come to the right place!
 
 In this document, we will teach you everything about fictional googology. We will also cover number concepts and the branches of FG.

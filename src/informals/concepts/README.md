@@ -1,4 +1,5 @@
 # Informal Concepts
+
 There are many concepts within **Informal FG** that are often used, this is meant to list the ones that this guidebook as documented.
 
 > [!NOTE]

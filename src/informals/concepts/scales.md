@@ -1,4 +1,5 @@
 # Scales
+
 **Scales** is basically how big something is or where something is placed. It is typically compared with the scale of other entries.
 
 **Scales** are typically the objective measurement of where a number is placed. A different variant, called **relative-scales** can be used which unlike scales, has no objectively correct placement. Within Fictional Googology, a relative-scale is a scale relative to a certain path.
