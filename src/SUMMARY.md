@@ -9,14 +9,14 @@
 	- [General Rules](./informals/c1/general-rules.md)
 	- [Necessities](./informals/c1/necessities.md)
 - [Before Cyclings](./informals/before-cyclings.md)
-  - [Ordinal Levels](./informals/c2/ordinal-levels.md)
   - [Notations](./informals/c2/notations.md)
     - [The xX Series](./informals/c2/notations/x-notation.md)
     - [Post-NEVER](./informals/c2/notations/post-never.md)
     - [Equation Complexities](./informals/c2/notations/endless-equations.md)
+  - [Ordinal Levels](./informals/c2/ordinal-levels.md)
 - [The Questionaire Regions](./informals/questionaire-region.md)
   - [Cycles](./informals/c3/cycles.md)
-    - [Cycles](./informals/c3/supercycles.md)
+    - [Supercycles](./informals/c3/supercycles.md)
   - [Stages and Classes](./informals/c3/classifications.md)
   - [Breaking](./informals/concepts/breaking.md)
   - [Loops](./informals/c3/loops.md)
@@ -64,4 +64,7 @@
 
 --------
 
+# Appendixes
+
+- [Terms](./terms.md)
 - [The BBN Foundation](./bbn-foundation.md)
