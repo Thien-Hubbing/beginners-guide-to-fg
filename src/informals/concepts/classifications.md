@@ -1,5 +1,4 @@
 # Classifications
-
 A **classification** is a set of numbers grouped by how they are related to each other. However, this isn't always the case depending on which FG videos you watch.
 
 There are many kinds of classifications, some of them can be found in the [Additional FG Expansion Charts](https://docs.google.com/spreadsheets/d/1o48spBes-bJzfCb12mUf_ID1Sar4N3Uk2Q5kC3aOBKU/edit?gid=2009808058#gid=2009808058). Here, we'll give a brief list of classifications from NO!'s ???? [x] and Daniel Dixon's Numbers 0 to LOE series.
