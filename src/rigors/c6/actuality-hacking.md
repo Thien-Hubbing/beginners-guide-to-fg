@@ -1,1 +1,0 @@
-# Actuality hacking: mindgame madness
