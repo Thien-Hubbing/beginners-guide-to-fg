@@ -18,13 +18,17 @@
     - [Megaphoto Segments](./informals/concepts/ae-versions/megaphoto.md)
   - [Loops](./informals/concepts/loops.md)
     - [Sequences](./informals/concepts/sequences.md)
+    - [Decorated Functions](./informals/concepts/decorated-functions.md)
   - [Notations](./informals/concepts/notations/README.md)
 - [Other Stuff]()
 	- [Quantum Googology](./informals/quantum-googology.md)
 
 # Rigorous FG
 - [Introduction](./rigors/README.md)
-  - [Rigorous Concepts](./rigors/concepts.md)
+  - [Difficulties](./rigors/concepts/difficulties.md)
+  - [Rigor Classifications](./rigors/concepts/rigor-classification.md)
+  - [Collapses and u*-shifting](./rigors/concepts/collapse.md)
+  - [Primary Assumptions](./rigors/concepts/assumptions.md)
 
 --------
 
