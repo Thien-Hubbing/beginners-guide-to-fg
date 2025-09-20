@@ -16,8 +16,6 @@
     - [Layers](./informals/concepts/ae-versions/layers.md)
     - [Video Layers](./informals/concepts/ae-versions/video-layers.md)
     - [Megaphoto Segments](./informals/concepts/ae-versions/megaphoto.md)
-    - [Shield Damages](./informals/concepts/ae-versions/shield-damages.md)
-    - [Black Holes](./informals/concepts/ae-versions/black-holes.md)
   - [Loops](./informals/concepts/loops.md)
     - [Sequences](./informals/concepts/sequences.md)
   - [Notations](./informals/concepts/notations/README.md)
