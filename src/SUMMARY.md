@@ -61,6 +61,11 @@
   - [The Unitude Series](./rigors/c5/unitude-series.md)
   - [Metaness Layers](./rigors/c5/metaness-layers.md)
 - [Conversational Mindgaming](./rigors/conversational-mindgaming.md)
+  - [SL3: it was all just a tale](./rigors/c6/sl3.md)
+  - [SsML: the flesh is too weak](./rigors/c6/sml.md)
+  - [SL4: total textual destruction](./rigors/c6/sl4.md)
+  - [Actuality hacking: mindgame madness](./rigors/c6/actuality-hacking.md)
+  - [🧶MRL: peace at last..?](./rigors/c6/yarn-mrl.md)
 
 --------
 
