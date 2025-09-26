@@ -1,3 +1,5 @@
+_It's dangerous to set off on a quest without knowing what you're doing._
+
 # Introduction
 
 Now, let us take a different path. _What if we approached Fictional Googology in a rigorous manner?_ Sure, the idea is still having fun making numbers, but now the fun is not primarily found in symbols or visuals, but rather the intricacies of the concepts and ideas operating behind the scenes... and in seeing how much the springs of logic can be stretched until they break...

@@ -50,11 +50,28 @@ You should be able to see the pattern by now. The bracket pairs that are used fo
 - (|Ω xX Ω|) **x 4** => **||||Ω xX Ω| xX Ω| xX Ω| xX Ω| x Ω**
 
 Repeat the sequence, blah blah blah but now we need a way to represent infinite amount of brackets. This is where our next "bracket pair level" comes in.
-- .|Ω xX Ω|. **x 2** => **{** Ω xX Ω **}** x Ω
-- .|Ω xX Ω|. **x 3** => **[** Ω xX Ω **]** x Ω
-- .|Ω xX Ω|. **x 4** => **/** Ω xX Ω **/** x Ω
-- .|Ω xX Ω|. **x 5** => **|** Ω xX Ω **|** x Ω
-- .|Ω xX Ω|. **x 6** => **(|** Ω xX Ω **|)** x Ω
+- .|Ω xX Ω|. **x 2** => <strong>{</strong>Ω xX Ω<strong>}</strong> x Ω
+- .|Ω xX Ω|. **x 3** => <strong>[</strong>Ω xX Ω<strong>]</strong> x Ω
+- .|Ω xX Ω|. **x 4** => <strong>/</strong>Ω xX Ω<strong>/</strong> x Ω
+- .|Ω xX Ω|. **x 5** => <strong>|</strong>Ω xX Ω<strong>|</strong> x Ω
+- .|Ω xX Ω|. **x 6** => <strong>(|</strong>Ω xX Ω<strong>|)</strong> x Ω
 - ...
 
-Sorry for the extra space, that's just markdown acting weird. If you know what the sequence is (reminder: (), {}, [], //, ||), then what this does is to basically count the nth bracket pair in the sequence.
+If you know what the sequence is (reminder: (), {}, [], //, ||), then what this does is to basically count the nth bracket pair in the sequence. And just like before, you can continue stacking previous functions.
+- **(**.|Ω xX Ω|. **xX Ω) x 3** => .|Ω xX Ω|. **xXx** Ω
+- **{**.|Ω xX Ω|. **xX Ω} x 3** => **((**.|Ω xX Ω|. **xX Ω) xX Ω) x Ω**
+- **[**.|Ω xX Ω|. **xX Ω] x 3** => **{{**.|Ω xX Ω|. **xX Ω} xX Ω} x Ω**
+- **/**.|Ω xX Ω|. **xX Ω/ x 3** => **[[**.|Ω xX Ω|. **xX Ω] xX Ω] x Ω**
+
+After applying previous bracket levels (this time on top of .||.), you can reach **..||..** brackets, which works just like .||. but applied on top of .||.
+- ..|Ω xX Ω|.. **x 2** => <strong>{</strong>.|Ω xX Ω|.<strong>}</strong> x Ω
+- ..|Ω xX Ω|.. **x 3** => <strong>[</strong>.|Ω xX Ω|.<strong>]</strong> x Ω
+- ..|Ω xX Ω|.. **x 4** => <strong>/</strong>.|Ω xX Ω|.<strong>/</strong> x Ω
+- ..|Ω xX Ω|.. **x 5** => <strong>|</strong>.|Ω xX Ω|.<strong>|</strong> x Ω
+
+Same song and dance to reach three dots, four, and so on and so forth...
+- ...|Ω xX Ω|... **x 5** => <strong>|</strong>..|Ω xX Ω|..<strong>|</strong> x Ω
+- ....|Ω xX Ω|.... **x 5** => <strong>|</strong>...|Ω xX Ω|...<strong>|</strong> x Ω
+- .....|Ω xX Ω|..... **x 5** => <strong>|</strong>....|Ω xX Ω|....<strong>|</strong> x Ω
+
+And, that's the end of the xX Series. Now what?
