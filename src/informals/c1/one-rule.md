@@ -1,7 +1,7 @@
-# General Rules
-There's some common communal rules/expectations that you should follow while participating in this field.
+# The One Rule
+You can go wild and crazy with any sort of numbers, functions, concepts, any many other things also. There is just one rule you must follow.
 
-## 1: Numbers never end.
+## Numbers never end.
 **Fictional Googology** is designed to be endless and infinite, so trying to end the entire number line by making an "End-All-Be-All" will absolutely cause problems and controversies.
 
 This does **not** mean however you cannot end your **own** number line, as that is separate from the main path. Basically:
