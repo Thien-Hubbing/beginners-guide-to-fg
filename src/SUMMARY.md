@@ -6,7 +6,7 @@
 
 # Informal FG
 - [Introduction](./informals/README.md)
-	- [General Rules](./informals/c1/general-rules.md)
+	- [The One Rule](./informals/c1/one-rule.md)
 	- [Necessities](./informals/c1/necessities.md)
 - [Before Cyclings](./informals/before-cyclings.md)
   - [Notations](./informals/c2/notations.md)
